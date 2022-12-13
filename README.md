@@ -1,2 +1,4 @@
 # java assignments
-- task 1
+#### Assignment 1
+- here I made two different tasks 
+* first1 Calculating **nCr nPr**
