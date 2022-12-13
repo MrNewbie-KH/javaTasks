@@ -13,4 +13,4 @@ here I made two different tasks too
 here 3 different tasks
 * Taking a string that "may" contain a comma and printing it without this comma
 * simple class of a student get some information of that student
-* Calculating the area and Circumference for different shapes _ circle and triangle _
+* Calculating the area and Circumference for different shapes _circle and triangle_
